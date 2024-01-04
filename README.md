@@ -20,14 +20,14 @@ So far, please note that due to the time limit of the semester, our project will
 
 
 ## Team Contributions ##
-Design of the project: Yiwei Wang <br>
-Dataset and database:  Yiwei Wang <br>
-Extract text information and expense category classification using NLP:  Pengkun Ma, Yiwei Wang<br>
-Linear Regression for predicting future invoice amount: Bingyang Ke<br>
-Feature Extraction:  Yiwei Wang<br>
-Fraud Risk Score Assessment using Neural Network:  Nanxiang Zhao<br>
-Markov Desicion Process: Nanxiang Zhao<br>
-Demo:  Yiwei Wang<br>
+Design of the project: <br>
+Dataset and database:  <br>
+Extract text information and expense category classification using NLP: <br>
+Linear Regression for predicting future invoice amount: <br>
+Feature Extraction: <br>
+Fraud Risk Score Assessment using Neural Network:  <br>
+Markov Desicion Process: <br>
+Demo: <br>
 Report: Drafted collectively
 
 ## ML Training Dataset ##
