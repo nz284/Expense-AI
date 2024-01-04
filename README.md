@@ -1,4 +1,4 @@
-# 5100CS_Group_Final_Project_Expense-AI
+# Project_Expense-AI
 AI Empowered Automated Employee Expense Reimbursement Process
 
 ## Project Process:  ##
